@@ -44,4 +44,3 @@
   + model_backtest.ipynb : 예측값을 통해 backtest 실행하여 수익률 도출
   + modeling.ipynb : lstm 사용하여 학습 및 예측
   + modeling_gru.ipynb : gru 사용하여 학습 및 예측
- 
